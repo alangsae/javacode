@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Apple {
 
-	public static void main(String[] args) {
+	public static void main(StriASCVng[] args) {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("사과 갯수를 입력하세요");
 		int apple = scan.nextInt();

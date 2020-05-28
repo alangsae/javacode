@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class SwitchExample {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
-		int total = 87
+		int player = scan.next
+				
 		switch(total/10) {
 		case 10:
 			System.out.println("A+");
